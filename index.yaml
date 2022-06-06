@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  weather-chart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-06-06T17:25:48.618186904Z"
+    description: A Helm chart for my weather app
+    digest: 6fca823c29637ddb1eb17230a0cc465f37db3033d99ef4255a6996b2041e9fc2
+    name: weather-chart
+    type: application
+    urls:
+    - weather-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-06-06T17:25:48.61776635Z"
